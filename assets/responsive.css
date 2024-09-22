@@ -1289,6 +1289,10 @@
 
 /* Tablet and Mobile */
 @media screen and (max-width: 61.99875em) {
+    main {
+        overflow-x: hidden;
+    }
+
     .header {
         padding-top: 1.25rem;
         background: #FBFAFF;
