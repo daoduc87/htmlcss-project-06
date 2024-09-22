@@ -327,7 +327,7 @@
     }
 
     .about .title-stats {
-        font-size: 0.9rem;
+        font-size: 1rem;
     }
 
     .about-stats {
@@ -393,7 +393,7 @@
     }
 
     .questions .title {
-        width: 100%;
+        width: 92%;
         max-width: 100%;
         font-size: 2.25rem;
         line-height: 2.625rem;
@@ -423,7 +423,7 @@
     }
 
     .questions .content {
-        width: 100%;
+        width: 95%;
         max-width: 100%;
     }
 
@@ -531,7 +531,7 @@
     }
 
     .list.list-footer {
-        column-gap: 1.5625rem;
+        column-gap: 1rem;
     }
 
 
@@ -907,7 +907,7 @@
     }
 
     .questions .title {
-        width: 100%;
+        width: 83%;
         max-width: 100%;
         font-size: 2.25rem;
         line-height: 2.625rem;
@@ -931,7 +931,7 @@
     }
 
     .questions .content {
-        width: 100%;
+        width: 92%;
         max-width: 100%;
     }
 
@@ -1018,16 +1018,8 @@
         margin-top: 2rem;
     }
 
-    .contact-decor1 {
-        display: none;
-    }
-
     .contact-decor2 {
         left: -13.125rem;
-    }
-
-    .contact-decor3 {
-        display: none;
     }
 
     .main-contact {
@@ -1228,6 +1220,16 @@
         font-size: 1.1875rem;
     }
 
+    .questions .content {
+        width: 87%;
+        max-width: 100%;
+    }
+
+    .questions .title {
+        width: 71.93%;
+        max-width: 100%;
+    }
+
     .questions .title {
         width: 72.93%;
         max-width: 100%;
@@ -1270,6 +1272,10 @@
 
     .contact .title {
         font-size: 2.5rem;
+    }
+
+    .contact-decor2 {
+        left: 1.75rem;
     }
 
     .main-contact {
@@ -1482,11 +1488,6 @@
         margin-top: 1.25rem;
     }
 
-    .questions .title {
-        width: 71.93%;
-        max-width: 100%;
-    }
-
     .questions-wrap {
         width: 100%;
         max-width: 100%;
@@ -1495,6 +1496,14 @@
     .atmosphere .dots {
         display: flex;
         margin-top: 1.875rem;
+    }
+
+    .contact-decor1 {
+        display: none;
+    }
+
+    .contact-decor3 {
+        display: none;
     }
 
     .footer .content-header {
