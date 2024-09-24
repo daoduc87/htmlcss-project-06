@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /dang-ky.html
+Disallow: /dang-nhap.html
+
+
+
+Sitemap: https://daoduc87.github.io/htmlcss-project-06/sitemap.xml
